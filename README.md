@@ -70,7 +70,7 @@ By leveraging machine learning and statistical techniques, the project highlight
 - Jupyter Notebook – Development environment for interactive analysis
 
 ###### Model Evaluation
-####### Models Implemented:
+Models Implemented:
 - Logistic Regression
 
 - Random Forest Classifier
@@ -79,7 +79,7 @@ By leveraging machine learning and statistical techniques, the project highlight
 
 - K-Nearest Neighbors (KNN)
 
-####### Evaluation Metrics:
+Evaluation Metrics:
 - Accuracy – Overall correctness of predictions
 
 - Precision / Recall / F1 Score – Performance on positive class
